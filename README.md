@@ -1,6 +1,6 @@
 # Outils-de-Traitement-de-Corpus
 ---------------------------------
-# Les besoins du projet
+## Les besoins du projet
 
 quel besoin ? 
 quel sujet allez vous traiter ? 
