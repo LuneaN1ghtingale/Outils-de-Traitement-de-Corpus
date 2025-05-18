@@ -8,8 +8,9 @@ quel sujet allez vous traiter ?
 
 quel type de tâche allez vous réaliser ? >> étiquetage POS
 
-quel type de données allez vous exploiter ? >> Textuelle, roman
+quel type de données allez vous exploiter ? >> Textuelle
 
-où allez vous récupérer vos données ? >> https://www.ebooksgratuits.com/ebooks.php (C'est un site sur lequel on peut trouver des livres normalement libre de droits)
+où allez vous récupérer vos données ? >>  https://github.com/UniversalDependencies/UD_French-GSD/archive/refs/heads/master.zip
 
-sont-elles libres d’accès ? Normalement oui, mais peut-être pas tous les textes.
+
+sont-elles libres d’accès ? Normalement oui.
